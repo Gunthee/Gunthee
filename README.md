@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am AI-Engineering and Data science Student at bangkok university.
+Here you can see my projects.
+
 <!--
 **Gunthee/Gunthee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
